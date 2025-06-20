@@ -15,7 +15,7 @@ This project is an Arduino-based autonomous rover designed to detect and retriev
   - Servo motor (claw mechanism)
 - **Power Supply**: 9V battery for motors, USB for Arduino logic
 
-<img src="electrical_wiring_diagram.png" alt="Wiring Diagram" width="600"/>
+![Wiring Diagram](https://raw.githubusercontent.com/katekoneva/rover-sensor-fusion/assets/electrical_wiring_diagram.png)
 
 ## ⚙️ Features
 
